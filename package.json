@@ -37,7 +37,7 @@
     "events": "^3.0.0"
   },
   "peerDependencies": {
-    "react": "^16.10.2",
+    "react": ">=16.10.2",
     "react-native": ">=0.60.2"
   },
   "devDependencies": {
